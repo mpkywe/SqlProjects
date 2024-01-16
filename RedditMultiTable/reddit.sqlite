@@ -1,0 +1,30 @@
+select * from users limit 5;
+select * from posts limit 5;
+select * from subreddits limit 5;
+/*select count (*) from subreddits;
+select username, max (score) as 'highest_score' from users;
+select title, max (score) as 'Highest_score' from posts;
+select name from subreddits order by subscriber_count desc limit 5;
+select users.username, count (*) as 'posts_made' from users left join posts on  users.id = posts.user_id group by users.id order by 2 desc limit 10;
+SELECT *
+FROM posts
+INNER JOIN users
+  ON posts.user_id = users.id;
+  select * from posts union select * from posts2;
+  WITH popular_posts AS (
+    SELECT * FROM posts WHERE score >= 5000
+)
+SELECT subreddits.name, popular_posts.title, popular_posts.score
+FROM subreddits
+INNER JOIN popular_posts ON subreddits.id = popular_posts.subreddit_id
+ORDER BY popular_posts.id DESC;*/
+SELECT posts.title, subreddits.name AS 'subreddit_name', MAX (posts.score) AS 'highest_score'
+FROM posts
+INNER JOIN subreddits ON posts.subreddit_id = subreddits.id
+GROUP BY posts.subreddit_id;
+SELECT subreddits.name AS 'Subreddit_name', AVG(posts.score) AS 'Avg_score'
+FROM subreddits
+INNER JOIN posts ON subreddits.id = posts.subreddit_id
+GROUP BY subreddits.name
+ORDER BY 'Avg_score' DESC;
+

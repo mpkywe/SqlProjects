@@ -1,0 +1,55 @@
+1|sonnynomnom|mbosence0@ycombinator.com|2008-05-14|185713
+2|coler1|kmonkhouse1@indiatimes.com|2011-12-11|136965
+3|lauracle|rkilfether2@independent.co.uk|2011-05-14|277721
+4|kassablanca|trigard3@stanford.edu|2006-10-30|143478
+5|yakovkagan|treggio4@sciencedirect.com|2009-06-06|242023
+1|Delivery drones are being attacked by hawks|89|15|40070|2015-10-21
+2|What is the best programming language to learn in 2020?|90|1|9746|2013-02-03
+3|First picture of a black hole has been taken|91|2|7367|2013-11-27
+4|Scientists develop waterproof shoes|27|15|38476|2012-12-29
+5|Running DOOM on a toaster|86|1|143728|2016-10-22
+1|programming|2006-02-28|2717072
+2|science|2006-10-18|24543061
+3|funny|2008-01-25|14926599
+4|gaming|2008-01-25|27061546
+5|pics|2008-01-25|25239687
+Running DOOM on a toaster|programming|143728
+Clean water ice found just below Mars' surface|science|49477
+I edited myself into a movie scene|funny|43894
+Quarter Life 3 being developed by Pipe Corporation|gaming|44695
+My dog when she was born and 10 years later|pics|48294
+Promising advances made toward cure for cancer|news|136532
+Playlist for programmers|Music|49129
+Codecademy programming tutorial videos|videos|85347
+Today I learned a bullet train system is equipped with a network of seismometers which has prevented trains from derailing|todayilearned|45529
+Days where everything goes smoothly are less memorable|showerthoughts|43496
+I am Gill Bates, founder of Macrohard. Ask me Anything.|IAmA|96731
+What book should every programmer have?|AskReddit|48086
+First image of the dark side of the moon|space|34204
+In an Asian country, bowls are repaired by filling the cracks with gold|mildlyinteresting|44421
+New vehicle can convert food waste into fuel|technology|42890
+NFL "Get Back" coach doing work|sports|47065
+Picture of a kitten|aww|149176
+Official trailer for Prevengers|movies|29258
+Salmon sashimi|food|45647
+How do databases store millions of entries and access them so quickly?|explainlikeimfive|45790
+videos|30347.75
+todayilearned|28573.8333333333
+technology|22866.1666666667
+sports|22938.0
+space|25288.2857142857
+showerthoughts|29514.1818181818
+science|34853.3636363636
+programming|41538.6363636364
+pics|29494.25
+news|35955.75
+movies|19785.3333333333
+mildlyinteresting|31334.8333333333
+gaming|26346.25
+funny|22235.2
+food|25885.1
+explainlikeimfive|29379.0
+aww|29193.9333333333
+Music|31614.3333333333
+IAmA|34477.5
+AskReddit|22190.9090909091
